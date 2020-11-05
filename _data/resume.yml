@@ -55,16 +55,16 @@ main: #简历主要内容，
 #   - title: 工具使用
 #     summary: brat,hadoop,
 
-- type: experience
+- type: 研究经历
   name: 经验
   content:
-  - title: 职位
-    sub: 某某公司
-    duration: "xxxx年xx月 - yyyy年yy月"
+  - title: 压缩机故障语料库的构建
+#     sub: 某某公司
+    duration: "2019年10月 - 2020年2月"
     tags:
     - 标签
-    summary: 职务或者工作总结(自动折叠)
-    detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
+    summary: 从企业获取的压缩机故障工单数据集上提取出顾客反应的故障和相对应的解决方案等信息构建成的压缩机故障语料库
+#     detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
     # open: open
     #可以设置open默认展开
   - title: Job Title
