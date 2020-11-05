@@ -97,5 +97,5 @@ main: #简历主要内容，
   name: '编程语言或技能'
   content:
   - title: 
-  - title:Python，MySQL，Flask,HTML,LaTeX
+  - title: Python，MySQL，HTML，JavaScript，LaTeX
 - type: #ID可以为空
