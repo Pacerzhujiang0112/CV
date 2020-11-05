@@ -65,7 +65,7 @@ main: #简历主要内容，
     duration: "2019年10月 - 2020年2月"
 #     tags:
 #     - 标签
-    summary: 从企业获取的压缩机故障工单数据集上提取出顾客反应的故障和相对应的解决方案等信息构建成的压缩机故障语料库。
+    summary: 从企业获取的压缩机故障工单数据集上提取出顾客反应的故障和相对应的解决方案等信息构建成的压缩机故障语料库。(https://github.com/Pacerzhujiang0112/CFDK)
 #     detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
     # open: open
     #可以设置open默认展开
