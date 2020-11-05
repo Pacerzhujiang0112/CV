@@ -4,7 +4,7 @@
 #title: "简历标题"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "朱江"
-jobtitle: "NLP算法工程师" #可空不显示
+jobtitle: "求职意向:NLP算法工程师" #可空不显示
 photo: "assets/img/photo.jpg" #照片可空，不显示
 
 #联系方式
@@ -30,14 +30,14 @@ main: #简历主要内容，
 - type: education #类别为ID
   name: 教育 #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
-  - title: 大学名称
-    duration: "2011年x月 - 2015年"
-    sub: 地点或学历
-    detail: 专业或者简短说明
-  - title: Your University
-    duration: Aug 2007 - Jun 2011
-    sub: Ut enim ad minim veniam
-    detail: Master Bachelor of Computer Science & Technology.
+  - title: 内蒙古民族大学
+    duration: "2014年9月 - 2018年6月"
+    sub: 学士
+    detail: 电子信息科学与技术
+  - title: 五邑大学
+    duration: "2018年9月 - 2021年6月"
+    sub: 硕士
+    detail: 模式识别与智能系统
 
 - type: skills
   # name: "技能"
