@@ -42,13 +42,17 @@ main: #简历主要内容，
 - type: 研究方向与研究兴趣
   # name: "技能"
   content:
-  - title: 编程语言
-    items: #itmems 可以小块的方式显示
-    - Python
-    - MySQL
-    - HTML
-  - title: 工具使用
-    summary: brat,hadoop,
+  - title: 命名实体识别
+  - title: 文本聚类
+  - title: 情感分析
+  - title: 数据挖掘
+  - title: 知识图谱
+#     items: #itmems 可以小块的方式显示
+#     - Python
+#     - MySQL
+#     - HTML
+#   - title: 工具使用
+#     summary: brat,hadoop,
 
 - type: experience
   name: 经验
