@@ -34,21 +34,21 @@ main: #简历主要内容，
     duration: "2014年9月 - 2018年6月"
     sub: 学士
     detail: 电子信息科学与技术
-  - title: Your University
-    duration: Aug 2007 - Jun 2011
-    sub: Ut enim ad minim veniam
-    detail: Master Bachelor of Computer Science & Technology.
+  - title: 五邑大学
+    duration: 2018年9月 - 2021年6月
+    sub: 硕士
+    detail: 模式识别与智能系统
 
 - type: skills
   # name: "技能"
   content:
   - title: 编程语言
     items: #itmems 可以小块的方式显示
-    - 汉语
-    - 语言2
-    - 语言3
-  - title: Skill Group
-    summary: Consectetur, Adipiscing, Elit
+    - Python
+    - MySQL
+    - HTML
+  - title: 工具使用
+    summary: brat,hadoop,
 
 - type: experience
   name: 经验
