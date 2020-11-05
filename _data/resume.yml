@@ -39,7 +39,7 @@ main: #简历主要内容，
     sub: 硕士
     detail: 模式识别与智能系统
 
-- type: skills
+- type: 研究方向与研究兴趣
   # name: "技能"
   content:
   - title: 编程语言
