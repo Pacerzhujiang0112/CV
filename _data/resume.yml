@@ -80,11 +80,11 @@ main: #简历主要内容，
 - type: projects
   name: 论文
   content:
-  - title: 1、朱江,陈涛,李鹤喜,等.基于自然语言处理的压缩机故障自动识别方法研究
+  - title: 1、朱江,陈涛,李鹤喜,等.基于自然语言处理的压缩机故障自动识别方法研究(五邑大学学报)
 #     duration: xxxx年xx月 - yyyy年yy月
 #     detail: 项目和工作介绍，项目总结.
 #     sub: 维护者
-  - title: 2、Tao Chen,Jiang Zhu,Zhiqiang Zeng,etal.Compressor Fault Diagnosis Knowledge(CFDK):a New Dataset and a Basedline Model for Knowledge Extraction from Maintenance Log Sheet based on Sequence Labeling(审稿中)
+  - title: 2、Tao Chen,Jiang Zhu,Zhiqiang Zeng,etal.Compressor Fault Diagnosis Knowledge(CFDK):a New Dataset and a Basedline Model for Knowledge Extraction from Maintenance Log Sheet based on Sequence Labeling(SCI二区,审稿中)
 #     summary: Projects' introduction or summary
 #     detail:
 #       md: _data/demo.md
