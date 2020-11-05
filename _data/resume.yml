@@ -42,6 +42,7 @@ main: #简历主要内容，
 - type: 研究方向与研究兴趣
   # name: "技能"
   content:
+  - title:
   - title: 自然语言处理、命名实体识别、文本聚类、数据挖掘、推荐算法
 #   - title: 文本聚类
 #   - title: 情感分析
