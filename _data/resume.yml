@@ -97,4 +97,5 @@ others: #其他列表显示
   name: '编程语言或技能'
   content:
   - title: Python，MySQL，Flask，HTML，JavaScript，LaTeX.
+  - title:
 
