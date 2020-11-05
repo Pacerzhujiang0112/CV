@@ -12,9 +12,11 @@ contact: #联系方式连接等3~5行
 - text: "pacer0112@gmail.com" #文本内容
   href: 'mailto:youremail@example.com' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
-- text: "1234567890"
+- text: "13286622178"
   href: 'tel:13286622178'
   icon: 'icons/phone.svg'
+- text: "广东省江门市"
+  icon: 'icons/location.svg'
 # - text: "your-website.com"
 #   href: 'http://your-website.com'
 #   icon: 'icons/web.svg'
@@ -58,7 +60,7 @@ main: #简历主要内容，
 - type: 研究经历
   name: 研究经历
   content:
-  - title: 压缩机故障语料库的构建
+  - title: 1、压缩机故障语料库的构建
 #     sub: 某某公司
     duration: "2019年10月 - 2020年2月"
 #     tags:
@@ -67,7 +69,7 @@ main: #简历主要内容，
 #     detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
     # open: open
     #可以设置open默认展开
-  - title: 基于自然语言处理的压缩机故障设备自动识别方法研究
+  - title: 2、基于自然语言处理的压缩机故障设备自动识别方法研究
 #     sub: Your 2nd, Inc.  
     duration: 2020年2月 - 2020年8月
 #     tags: 
@@ -78,11 +80,11 @@ main: #简历主要内容，
 - type: projects
   name: 论文
   content:
-  - title: 基于自然语言处理的压缩机故障自动识别方法研究
+  - title: 1、基于自然语言处理的压缩机故障自动识别方法研究
 #     duration: xxxx年xx月 - yyyy年yy月
 #     detail: 项目和工作介绍，项目总结.
 #     sub: 维护者
-  - title: Compressor Fault Diagnosis Knowledge(CFDK):a New Dataset and a Basedline Model for Knowledge Extraction from Maintenance Log Sheet based on Sequence Labeling(审稿中)
+  - title: 2、Compressor Fault Diagnosis Knowledge(CFDK):a New Dataset and a Basedline Model for Knowledge Extraction from Maintenance Log Sheet based on Sequence Labeling(审稿中)
 #     summary: Projects' introduction or summary
 #     detail:
 #       md: _data/demo.md
@@ -92,20 +94,24 @@ main: #简历主要内容，
 #others 其他简略内容(列表)
 others: #其他列表显示
 - type: others #ID可以为空
-  name: '其他'
+  name: '编程语言或技能'
   content: #选择需要的格式
-  - 单行文字
-  - title: "加粗:"
-    text: "列表项二"
-  - title: "兴趣:"
-    items: #单行列表
-    - 睡觉
-    - 吃饭
-    - coding
-  - title: 列表
-    list:
-    - 第一项
-    - 第二项
+#   - 单行文字
+  - title: Python，MySQL，Flask，HTML，JavaScript，LaTeX
+#   - title: "MySQL"
+#   - title: "Flask"
+#   - title: "HTML"
+#   - title: "LaTeX"
+#     text: "列表项二"
+#   - title: "兴趣:"
+#     items: #单行列表
+#     - 睡觉
+#     - 吃饭
+#     - coding
+#   - title: 列表
+#     list:
+#     - 第一项
+#     - 第二项
 #- type: 
 #  name: '其他'
 #  content: #选择需要的格式
