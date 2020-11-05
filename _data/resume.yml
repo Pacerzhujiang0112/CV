@@ -95,20 +95,5 @@ main: #简历主要内容，
 others: #其他列表显示
 - type: others #ID可以为空
   name: '编程语言或技能'
-  content: #选择需要的格式
-#   - 单行文字
-  - title: Python，MySQL，Flask，HTML，JavaScript，LaTeX
+  - title: Python，MySQL，Flask，HTML，JavaScript，LaTeX.
 
-#footer 脚注，打印版和web版不同不显示    
-# footer: #脚注多组
-#   print: #打印版markdown或者html
-#   screen:
-#   - text: "简历脚注"
-#   #   href: '/'
-#   - text: "Made with &hearts; by NewFuture"
-#     href: "https://github.com/NewFuture/CV/"
-
-# #页面额外js脚本，如xx统计
-# scripts:
-#- src: "assets/js/resume.js"
-#  defer: defer #可以设置defer或者sync异步加载
