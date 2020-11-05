@@ -15,13 +15,13 @@ contact: #联系方式连接等3~5行
 - text: "1234567890"
   href: 'tel:13286622178'
   icon: 'icons/phone.svg'
-- text: "your-website.com"
-  href: 'http://your-website.com'
-  icon: 'icons/web.svg'
-- text: "GitHubID"
-  href: 'https://github.com/NewFuture'
-  icon: "icons/github.svg"
-  attr: 'target="_blank"' #新标签页打开
+# - text: "your-website.com"
+#   href: 'http://your-website.com'
+#   icon: 'icons/web.svg'
+# - text: "GitHubID"
+#   href: 'https://github.com/NewFuture'
+#   icon: "icons/github.svg"
+#   attr: 'target="_blank"' #新标签页打开
   # - text: "地址"
   #   icon: "icons/location.svg"
 
