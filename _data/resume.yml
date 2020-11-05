@@ -98,4 +98,4 @@ main: #简历主要内容，
   content:
   - title: 
   - title:Python，MySQL，Flask，HTML，JavaScript，LaTeX.
-
+- type: othera #ID可以为空
