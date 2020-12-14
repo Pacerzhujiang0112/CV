@@ -4,7 +4,7 @@
 title: ""
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "朱江"
-jobtitle: "求职意向:NLP算法工程师" #可空不显示
+jobtitle: "求职意向:NLP算法工程师、推荐算法工程师" #可空不显示
 photo: "assets/img/zhu2.jpg" #照片可空，不显示
 
 #联系方式
@@ -56,7 +56,10 @@ main: #简历主要内容，
 #     - HTML
 #   - title: 工具使用
 #     summary: brat,hadoop,
-
+- type: 实习经历
+  content:
+  - title: 1、无限极有限公司推荐算法工程师实习
+    summary: 在公司承担推荐算法接口的实现，另外有维护企业词库，也有NLP在词库方面的研究。
 - type: 研究经历
   name: 研究经历
   content:
