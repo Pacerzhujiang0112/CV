@@ -99,9 +99,9 @@ main: #简历主要内容，
 
 #others 其他简略内容(列表)
 # others: #其他列表显示
-- type: others #ID可以为空
-  name: '编程语言或技能'
-  content:
-  - title: 
-  - title: Python、MySQL、HTML、JavaScript、Flask、LaTeX
-- type: #ID可以为空
+# - type: others #ID可以为空
+#   name: '编程语言或技能'
+#   content:
+#   - title: 
+#   - title: Python、MySQL、HTML、JavaScript、Flask、LaTeX
+# - type: #ID可以为空
