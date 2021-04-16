@@ -41,7 +41,7 @@ main: #简历主要内容，
     sub: 硕士
     detail: 模式识别与智能系统
 
-- type: 研究方向与研究兴趣
+- type: 研究方向
   # name: "技能"
   content:
   - title:
@@ -87,13 +87,13 @@ main: #简历主要内容，
     duration: 2020年6月 - 2020年10月
     summary: 对命名实体识别技术在医疗领域的应用研究，并参加了中国健康信息处理会议(CHIP)以及2020全国知识图谱与语义计算大会评测任务中的中文医学文本命名实体识别。
 - type: projects
-  name: 论文
+  name: 发表论文
   content:
-  - title: 1、朱江,陈涛,李鹤喜,等.基于自然语言处理的压缩机故障自动识别方法研究(五邑大学学报)
+    - title: 1、T.Chen,J.Zhu,Z.Zeng and X.Jia,"Compressor Fault Diagnosis Knowledge:|a Benchmark Dataset for Knowledge Extraction from Maintenance Log Sheets based on Sequence Labeling,"|in IEEE Access,doi:10.1109/ACCESS.2021.3072927.
+    - title: 2、朱江,陈涛,李鹤喜,等.基于自然语言处理的压缩机故障自动识别方法研究(五邑大学学报)
 #     duration: xxxx年xx月 - yyyy年yy月
 #     detail: 项目和工作介绍，项目总结.
 #     sub: 维护者
-  - title: 2、T.Chen,J.Zhu,Z.Zeng and X.Jia,"Compressor Fault Diagnosis Knowledge:|a Benchmark Dataset for Knowledge Extraction from Maintenance Log Sheets based on Sequence Labeling,"|in IEEE Access,doi:10.1109/ACCESS.2021.3072927.
 #     summary: Projects' introduction or summary
 #     detail:
 #       md: _data/demo.md
