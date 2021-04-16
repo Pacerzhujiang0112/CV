@@ -93,7 +93,7 @@ main: #简历主要内容，
 #     duration: xxxx年xx月 - yyyy年yy月
 #     detail: 项目和工作介绍，项目总结.
 #     sub: 维护者
-  - title: 2、Tao Chen,Jiang Zhu,Zhiqiang Zeng,etal.Compressor Fault Diagnosis Knowledge(CFDK):a New Dataset and a Basedline Model for Knowledge Extraction from Maintenance Log Sheet based on Sequence Labeling(IEEE Access)
+  - title: 2、T. Chen, J. Zhu, Z. Zeng and X. Jia, "Compressor Fault Diagnosis Knowledge: a Benchmark Dataset for Knowledge Extraction from Maintenance Log Sheets based on Sequence Labeling," in IEEE Access, doi: 10.1109/ACCESS.2021.3072927.
 #     summary: Projects' introduction or summary
 #     detail:
 #       md: _data/demo.md
