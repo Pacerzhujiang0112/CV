@@ -58,7 +58,7 @@ main: #简历主要内容，
 #     summary: brat,hadoop,
 - type: 实习经历
   content:
-  - title: 1、无限极有限公司算法工程师实习生
+  - title: 1、无限极(中国)有限公司算法工程师实习生
     duration: "2020年11月17日 - 2021年2月22日"
     summary: 在公司承担推荐、情感分析在电商系统中的应用，另外有维护企业词库以及NLP在词库应用方面的研究。
   - title: 2、全民钱包科技有限公司数据挖掘实习生
@@ -93,7 +93,7 @@ main: #简历主要内容，
 #     duration: xxxx年xx月 - yyyy年yy月
 #     detail: 项目和工作介绍，项目总结.
 #     sub: 维护者
-  - title: 2、Tao Chen,Jiang Zhu,Zhiqiang Zeng,etal.Compressor Fault Diagnosis Knowledge(CFDK):a New Dataset and a Basedline Model for Knowledge Extraction from Maintenance Log Sheet based on Sequence Labeling(IEEE Access,审稿中)
+  - title: 2、Tao Chen,Jiang Zhu,Zhiqiang Zeng,etal.Compressor Fault Diagnosis Knowledge(CFDK):a New Dataset and a Basedline Model for Knowledge Extraction from Maintenance Log Sheet based on Sequence Labeling(IEEE Access)
 #     summary: Projects' introduction or summary
 #     detail:
 #       md: _data/demo.md
